@@ -19,6 +19,8 @@ This data science based project consists of analysing Tweets regarding the Oscar
 To analyse said data it was requiered to use Python (Jupyter notebook) and the Tweepy library.
 This project is basically a NLP *(Natural language processing)* data analysis of each and every tweet.
 During this analysis a lot of interesting data was discovered, for example. One of the most common topics on each tweet was the announcement of Jimmi Kimmel as the host, as well as Tom Cruise´s Top Gun: Maverick
+![Oscars1](images/oscars1.jpg)  
+![Oscars2](images/oscars2.jpg)
 
 
 ## Guessing game GUI in Java using binary trees <a name="guessingGame"></a>
